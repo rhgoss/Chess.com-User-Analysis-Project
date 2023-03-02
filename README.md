@@ -7,7 +7,7 @@ This project consisted of
   3. visualizing
   4. drawing conclusions 
   
-from my previously played chess.com games. 
+from data of my previously played chess.com games. 
 
 ### Branches
 
